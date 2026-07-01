@@ -1,0 +1,233 @@
+canonical_identifier: bkk:krp/KR6p0105/v1
+canonical_location: https://kanripo.org/bkk/KR6p0105/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 勸修淨土切要
+  identifiers:
+    alt_id:
+    - X62n1186
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1186.xml
+    old_id: X62n1186
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0105_000.yaml, hash: 'sha256:d83a6c8c5a83375f5193bbbc2269f5127cc5daba99f7054d41761ccc1fec433c'}
+  - {seq: 1, filename: KR6p0105_001.yaml, hash: 'sha256:499345e850b9df6ffd2860744e8dd02be7a15b3cd2591aacb311ffb335b16454'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0105_000.markers.yaml, hash: 'sha256:bf00ef3cf7a53891539fbe5182a697bede4286f714c30439222841ee87c6cc20'}
+  - {seq: 1, role: markers, filename: assets/KR6p0105_001.markers.yaml, hash: 'sha256:22dadf8cf18c4fba395b7f60ea7e5e385b84b654e496d02e716a3ea7287d2fda'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0105_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1186-A 重刻淨土切要序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0105_X_000-mulu-2
+    span:
+    - front
+    - 214
+    - 214
+  label: No. 1186-B
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0105_X_000-mulu-3
+    span:
+    - front
+    - 355
+    - 355
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 12151
+  label: 勸修淨土切要
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-2
+    span:
+    - body
+    - 917
+    - 917
+  label: 一勸發心念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-3
+    span:
+    - body
+    - 3493
+    - 3493
+  label: 二勸實心念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-4
+    span:
+    - body
+    - 4712
+    - 4712
+  label: 三勸求生淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-5
+    span:
+    - body
+    - 5985
+    - 5985
+  label: 四勸正助雙修
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-6
+    span:
+    - body
+    - 9193
+    - 9193
+  label: 勸修行人從根本處修
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-7
+    span:
+    - body
+    - 9750
+    - 9750
+  label: 為奉道者勸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-8
+    span:
+    - body
+    - 9988
+    - 9988
+  label: 念佛儀式
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-9
+    span:
+    - body
+    - 10167
+    - 10167
+  label: 發願回向文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-10
+    span:
+    - body
+    - 10496
+    - 10496
+  label: 十念法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-11
+    span:
+    - body
+    - 10606
+    - 10606
+  label: No. 1186-C 附錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-12
+    span:
+    - body
+    - 10608
+    - 10608
+  label: 念佛不可附邪教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-13
+    span:
+    - body
+    - 10714
+    - 10714
+  label: 念佛不可當錢用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-14
+    span:
+    - body
+    - 10838
+    - 10838
+  label: 寄庫無益說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-15
+    span:
+    - body
+    - 10986
+    - 10986
+  label: No. 1186-D
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0105_X_001-mulu-16
+    span:
+    - body
+    - 11276
+    - 11276
+  label: No. 1186-E 臨終舟楫要語
+  type: mulu
+  level: 1
+hash: sha256:fe62e79ad4fec14cb0aa2ff12e06994142db6ecdc6db7c444c74f37b5378fc1e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
