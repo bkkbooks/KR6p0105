@@ -192,7 +192,6 @@ markers:
   - {type: line-break, offset: 412, content: '', id: KR6p0105_X_000-0412b21, ed: X, 'n': 0412b21}
   - {type: line-break, offset: 412, content: '', id: KR6p0105_X_000-0911b12, ed: R109, 'n': 0911b12}
   - {type: xml-element, offset: 412, content: '', id: itemX62p0412b2101, name: item, role: open, attrs: {'xml:id': itemX62p0412b2101}}
-  - {type: substitution, offset: 413, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: line-break, offset: 414, content: '', id: KR6p0105_X_000-0412b22, ed: X, 'n': 0412b22}
   - {type: line-break, offset: 414, content: '', id: KR6p0105_X_000-0911b13, ed: R109, 'n': 0911b13}
   - {type: xml-element, offset: 414, content: '', id: KR6p0105_X_000-bkkxmlele2, name: list, role: open, attrs: {rend: no-marker}}
@@ -211,8 +210,6 @@ markers:
   - {type: xml-element, offset: 445, content: '', id: KR6p0105_X_000-bkkxmlele8, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 445, content: '', id: itemX62p0412b2301_end, name: item, role: close, attrs: {'xml:id': itemX62p0412b2301}}
   - {type: xml-element, offset: 445, content: '', id: itemX62p0412b2310, name: item, role: open, attrs: {'xml:id': itemX62p0412b2310}}
-  - {type: substitution, offset: 445, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3160}}
-  - {type: substitution, offset: 446, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3160}}
   - {type: xml-element, offset: 447, content: '', id: itemX62p0412b2310_end, name: item, role: close, attrs: {'xml:id': itemX62p0412b2310}}
   - {type: line-break, offset: 447, content: '', id: KR6p0105_X_000-0412b24, ed: X, 'n': 0412b24}
   - {type: line-break, offset: 447, content: '', id: KR6p0105_X_000-0911b15, ed: R109, 'n': 0911b15}
@@ -238,4 +235,4 @@ markers:
   - {type: line-break, offset: 453, content: '', id: KR6p0105_X_000-0912a01, ed: R109, 'n': 0912a01}
   body: []
   back: []
-hash: sha256:bf00ef3cf7a53891539fbe5182a697bede4286f714c30439222841ee87c6cc20
+hash: sha256:bcb63101ed9ee2ae62431bb01670823c98c854f1cdccf072a1a82a15724b106b
