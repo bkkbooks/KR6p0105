@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0105_000-X.yaml, hash: 'sha256:f72d7d02eba164be1ca5d3c3ac3b4305b3934da200e235801085787eeb9e02fe'}
+  - {seq: 0, filename: KR6p0105_000-X.yaml, hash: 'sha256:fa64050d375f935bd37f212ccc0fbd3c09e6d394918b4fa7b8e20df5b234ffe5'}
   - {seq: 1, filename: KR6p0105_001-X.yaml, hash: 'sha256:d65324b8f9ff34130a58ef162d312e1327a9e9ce6483cc75f0166d26d41341d8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0105_000-X.markers.yaml, hash: 'sha256:8fe3bad670d08f17be36e714f312fb59b04fc9745c695bf95240ad56740b4d28'}
+  - {seq: 0, role: markers, filename: assets/KR6p0105_000-X.markers.yaml, hash: 'sha256:19e527caee36e09ef165758cd8f23c51013641182099210afe37f1da109a4a0e'}
   - {seq: 1, role: markers, filename: assets/KR6p0105_001-X.markers.yaml, hash: 'sha256:7142ef6d14ff08ce6cb73af8be84a2b05392c55435e6e06ea89c01a9d8a8f91c'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0105_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1186-A 重刻淨土切要序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0105_X_000-mulu-2
     span:
-    - front
+    - body
     - 214
     - 214
   label: No. 1186-B
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0105_X_000-mulu-3
     span:
-    - front
+    - body
     - 355
     - 355
   label: 目錄
@@ -225,4 +225,4 @@ table_of_contents:
   label: No. 1186-E 臨終舟楫要語
   type: mulu
   level: 1
-hash: sha256:200c79513b992a4b5598b59deb4e66f6e873ab02340e50b40855756edc6c858e
+hash: sha256:272e76e45f63cd2e329249396fbc09c416e4dbe8df9a5005b5293414b9b3e039
